@@ -1,3 +1,5 @@
+package bobreader;
+
 import javax.swing.*;
 
 public class Status extends JDialog {
